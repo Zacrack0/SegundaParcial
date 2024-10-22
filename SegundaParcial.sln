@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegundaParcial", "SegundaParcial\SegundaParcial.csproj", "{08C88249-739F-447E-A5BC-4EE85501F21F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegundaParcial.Client", "SegundaParcial.Client\SegundaParcial.Client.csproj", "{043F7D76-1D8C-49C2-8E32-0E21698F3040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C88249-739F-447E-A5BC-4EE85501F21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C88249-739F-447E-A5BC-4EE85501F21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C88249-739F-447E-A5BC-4EE85501F21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C88249-739F-447E-A5BC-4EE85501F21F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043F7D76-1D8C-49C2-8E32-0E21698F3040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043F7D76-1D8C-49C2-8E32-0E21698F3040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043F7D76-1D8C-49C2-8E32-0E21698F3040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043F7D76-1D8C-49C2-8E32-0E21698F3040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0B5F6A-4549-4B34-8E4A-9B355E5207C9}
+	EndGlobalSection
+EndGlobal

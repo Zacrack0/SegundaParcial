@@ -10,10 +10,10 @@ namespace SegundaParcial.Models
 
         [Required(ErrorMessage = "El nombre del producto es obligatorio")]
         [MaxLength(200, ErrorMessage = "El nombre del producto no puede exceder 200 caracteres")]
-        public string? Nombre { get; set; }
+        public string Nombre { get; set; }
 
         [Required(ErrorMessage = "El departamento es obligatorio")]
         [RegularExpression("^(Frutas|Verduras|Lácteos)$", ErrorMessage = "El departamento debe ser Frutas, Verduras o Lácteos")]
-        public string? Departamento { get; set; }
+        public string Departamento { get; set; }
     }
 }
